@@ -1,4 +1,4 @@
-# concurrent Chat
+# Concurrent Chat
 
 This is a simple example of a TCP concurrent server in GO.
 
